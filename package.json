@@ -1,0 +1,24 @@
+{
+  "name": "leetcode",
+  "version": "0.1.0",
+  "private": true,
+  "description": "sunnywang's leetcode training",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "leetcode",
+    "data",
+    "structure",
+    "algorithm"
+  ],
+  "author": "sunnywx",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "babel-jest": "^29.2.2",
+    "jest": "^29.2.2"
+  }
+}
